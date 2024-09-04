@@ -20,7 +20,6 @@ html,body{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     column-gap:0.5rem;
-
     height:9rem;
 }
 .column{
